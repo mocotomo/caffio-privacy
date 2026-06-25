@@ -27,7 +27,7 @@ Caffio ("we", "our", "the app") handles the following data:
 - iCloud sync data can be removed from iOS Settings → Apple ID → iCloud → Manage Storage
 
 ### Contact
-- Email: tomohisa.moko@gmail.com
+- Email: mocotomo.vdd@gmail.com
 
 ---
 
@@ -56,4 +56,4 @@ Caffio（以下「本アプリ」）は、以下のデータを取り扱いま�
 - iCloud 同期データは iOS の設定 → Apple ID → iCloud → ストレージから削除可
 
 ### お問い合わせ
-- Email: tomohisa.moko@gmail.com
+- Email: mocotomo.vdd@gmail.com
